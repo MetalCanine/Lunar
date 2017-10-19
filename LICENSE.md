@@ -1,4 +1,4 @@
-Copyright (c) 2016, Jenn Morris jmorris@breakfastbattalion.com
+Copyright (c) 2016, Jenn Wilde jennowilde@gmail.com
 
 The code and art in this repository is licensed under:
 Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
